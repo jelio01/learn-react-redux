@@ -1,0 +1,23 @@
+Learning PATH
+-------------------------------------------------------------------------
+Redux Toolkit Tutorial
+https://www.youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3
+next(() => return '#7');
+//#7 Outdated
+
+Now use
+https://redux.js.org/introduction/why-rtk-is-redux-today
+>Beginning :https://redux.js.org/tutorials/essentials/part-1-overview-concepts#introduction
+	next(() => return 'Redux Toolkit App Structure');
+
+Template: https://github.com/reduxjs/redux-templates/tree/master/packages/vite-template-redux
+
+Github-Tuts:
+Redux Counter Tut:https://redux.js.org/tutorials/essentials/part-2-app-structure > Learn structure an react redux app
+https://github.com/reduxjs/redux-essentials-example-app > Learn Redux Data Flow
+
+
+
+> Test UI https://nextui.org/
+
+
